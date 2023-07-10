@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nl_xIdjPrnuEAKl_t1muXLG4itR5Z9G0/view?usp=sharing](https://drive.google.com/file/d/1nl_xIdjPrnuEAKl_t1muXLG4itR5Z9G0/view?usp=sharing)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ARAVINTH&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aravinthpm77&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
