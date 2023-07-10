@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nl_xIdjPrnuEAKl_t1muXLG4itR5Z9G0/view?usp=sharing](https://drive.google.com/file/d/1nl_xIdjPrnuEAKl_t1muXLG4itR5Z9G0/view?usp=sharing)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aravinth-pm-5359071b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravinth-pm-5359071b7/" height="30" width="40" /></a>
