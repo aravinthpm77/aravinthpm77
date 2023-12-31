@@ -1,19 +1,19 @@
 <h1 align="center">Hi Folks👋, I'm Aravinth PM</h1>
-<h3 align="center">A passionate frontend developer interested in working in React.js and express.js</h3>
+<h3 align="center">A passionate Full Stack Developer interested in working in Next Js and Express Js </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinthpm77&label=Profile%20views&color=0e75b6&style=flat" alt="aravinthpm77" /> </p>
 
-- 🔭 I’m currently working on [MERN Stack](https://github.com/aravinthpm77/SocialCommunity)
+- 🔭 I’m currently working on [Next JS and Tailwind](https://github.com/aravinthpm77/Porfolio)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Front End Projects](https://aravinthpm77.github.io/rolex-website/rolex.html)
+- 👯 I’m looking to collaborate on [Full Stack Projects](https://aravinthpm77.github.io/rolex-website/rolex.html)
 
 - 🤝 I’m looking for help with **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aravinthpm77](https://github.com/aravinthpm77)
 
-- 💬 Ask me about **React.JS, Express.JS**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **aravinth7703@gmail.com**
 
