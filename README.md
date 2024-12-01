@@ -28,10 +28,11 @@ Feel free to explore my repositories or reach out via [aravinth7703@gmail.com](m
 ![NextJS](https://img.shields.io/badge/NextJS-61DAFB?style=for-the-badge&logo=next.js&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer%20Motion-FFFF00?style=for-the-badge&logo=framer&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![VueJS](https://img.shields.io/badge/VueJS-61DAFB?style=for-the-badge&logo=vue.js&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 - **Backend**:
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
