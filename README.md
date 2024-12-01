@@ -3,9 +3,9 @@
 Welcome to my GitHub! I'm a **Full-Stack Developer** passionate about crafting efficient, scalable, and user-friendly web applications.
 
 ## 🌟 What I Do
-- **Frontend**: [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Next.js](https://nextjs.org/), JavaScript, [Framer Motion](https://www.framer.com/motion/), [Tailwind CSS](https://tailwindcss.com/), HTML/CSS.
-- **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), [Java](https://www.java.com/).
-- **Database**: Expertise in [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/).
+- **Frontend**: React, Vue.js, Next.js, JavaScript, Framer Motion, Tailwind CSS, HTML/CSS.
+- **Backend**: Node.js, Express.js, Java.
+- **Database**: Expertise in MySQL, MongoDB, PostgreSQL.
 
 
 ## 💼 Let's Collaborate!
@@ -14,6 +14,7 @@ Feel free to explore my repositories or reach out via [aravinth7703@gmail.com](m
 
 
 <img src="https://raw.githubusercontent.com/aravinthpm77/aravinthpm77/output/snake.svg" alt="Snake animation" />
+
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
