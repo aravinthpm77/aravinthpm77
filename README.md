@@ -24,7 +24,6 @@ Feel free to explore my repositories or reach out via [aravinth7703@gmail.com](m
 
 ## Web Development
 
-- ## Frontend
 ![NextJS](https://img.shields.io/badge/NextJS-61DAFB?style=for-the-badge&logo=next.js&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer%20Motion-FFFF00?style=for-the-badge&logo=framer&logoColor=black)
