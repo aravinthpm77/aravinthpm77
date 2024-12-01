@@ -3,9 +3,9 @@
 Welcome to my GitHub! I'm a **Full-Stack Developer** passionate about crafting efficient, scalable, and user-friendly web applications.
 
 ## 🌟 What I Do
-- **Frontend**: React, Vue.js, Next.js, JavaScript, Framer Motion, Tailwind CSS, HTML/CSS.
-- **Backend**: Node.js, Express.js, Java.
-- **Database**: Expertise in MySQL, MongoDB, PostgreSQL.
+- **Frontend**: React , Vue JS , Next JS , JS , Framer Motion , Tailwind CSS , HTML/CSS.
+- **Backend**: Node JS , Express JS , Java.
+- **Database**: MySQL , MongoDB , PostgreSQL.
 
 
 ## 💼 Let's Collaborate!
