@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Web Development
-![NextJS](https://img.shields.io/badge/NextJS-61DAFB?style=flat&logo=next.js&logoColor=black)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/NextJS-61DAFB?style=for-the-badge&logo=next.js&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Framer](https://img.shields.io/badge/Framer%20Motion-FFFF00?style=for-the-badge&logo=framer&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -41,7 +41,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ## Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/charan-adhithya-k-a2564223a/)
+- [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/aravinth-pm-5359071b7/)
 - ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/aravinthpm77)
 - ![CodeChef](https://img.shields.io/badge/CodeChef-5B5B5B?style=flat&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/charan3006)
 - ![LeetCode](https://img.shields.io/badge/LeetCode-FC9C4B?style=flat&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/Charan_Adhithya_K/)
