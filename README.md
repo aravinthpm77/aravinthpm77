@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ## Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)]
+- ![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white)
 (https://www.linkedin.com/in/aravinth-pm-5359071b7/)
 - ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/aravinthpm77)
 - ![CodeChef](https://img.shields.io/badge/CodeChef-5B5B5B?style=flat&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/charan3006)
