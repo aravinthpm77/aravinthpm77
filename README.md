@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-61DAFB?style=for-the-badge&logo=vue.js&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -41,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn]
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn]
 (https://www.linkedin.com/in/aravinth-pm-5359071b7/)
 - ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/aravinthpm77)
 - ![CodeChef](https://img.shields.io/badge/CodeChef-5B5B5B?style=for-the-badge&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/charan3006)
