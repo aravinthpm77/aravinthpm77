@@ -1,13 +1,22 @@
 # Hello, I'm Aravinth PM! 👋
 
+Welcome to my GitHub! I'm a **Full-Stack Developer** passionate about crafting efficient, scalable, and user-friendly web applications.
+
+## 🌟 What I Do
+- **Frontend**: [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Next.js](https://nextjs.org/), JavaScript, [Framer Motion](https://www.framer.com/motion/), [Tailwind CSS](https://tailwindcss.com/), HTML/CSS.
+- **Backend**: [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/), [Java](https://www.java.com/).
+- **Database**: Expertise in [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.com/), [PostgreSQL](https://www.postgresql.org/).
 
 
+## 💼 Let's Collaborate!
+I'm open to **freelance projects**, **collaborations**, and **open-source contributions**.  
+Feel free to explore my repositories or reach out via [aravinth7703@gmail.com](mailto:aravinth7703@gmail.com) or [portfolio](https://aravinthpm.vercel.app).
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong background in various programming languages, web development technologies, and DevOps tools. 
+
 <img src="https://raw.githubusercontent.com/aravinthpm77/aravinthpm77/output/snake.svg" alt="Snake animation" />
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -42,21 +51,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn]
-(https://www.linkedin.com/in/aravinth-pm-5359071b7/)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/aravinthpm77)
-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B5B5B?style=for-the-badge&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/charan3006)
-- ![LeetCode](https://img.shields.io/badge/LeetCode-FC9C4B?style=for-the-badge&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/Charan_Adhithya_K/)
-- ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white) [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aravinthpm77)
-- ![TopCoder](https://img.shields.io/badge/TopCoder-4B92DB?style=for-the-badge&logo=topcoder&logoColor=white) [TopCoder](https://platform.topcoder.com/profile/aravinthpm77)
-- ![HackerEarth](https://img.shields.io/badge/HackerEarth-FF6F00?style=for-the-badge&logo=hackerearth&logoColor=white) [HackerEarth](https://www.hackerearth.com/@poycharan)
-- ![Codeforces](https://img.shields.io/badge/Codeforces-3A6B9D?style=for-the-badge&logo=codeforces&logoColor=white) [Codeforces](https://codeforces.com/profile/aravinthpm77)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinth-pm-5359071b7/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FC9C4B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aravinthpm77/)
+[![Instagram](https://img.shields.io/badge/Instagram-0F9D58?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz.arvinth)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aravinthpm77)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aravinthpm/)
+
+
 
 ## GitHub Stats
-[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthpm77&theme=dark&show_icons=true&&hide=issues,contribs)](https://github-readme-stats.vercel.app/api?username=aravinthpm77&theme=dark&show_icons=true&&hide=issues,contribs)
-
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aravinth_PM?theme=dark&font=Mada)
+[![Aravinth PM's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravinthpm77&theme=dark&show_icons=true&&hide=issues,contribs)](https://github-readme-stats.vercel.app/api?username=aravinthpm77&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
